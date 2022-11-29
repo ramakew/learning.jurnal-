@@ -1,3 +1,5 @@
+HEAD
 ini file baru test test
 halo 
 test 123 
+ini file baru test  
